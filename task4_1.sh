@@ -35,7 +35,7 @@ echo "Kernel version: $kernelVersion"
 echo "Installation Date: $installationDate"
 echo "Hostname: $hostName"
 echo "Uptime: $uptime"
-echo "Processes running: $uptime"
+echo "Processes running: $procRunning"
 echo "User logged in: $userLogged"
 
 echo '--Network--'
